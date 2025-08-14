@@ -20,7 +20,7 @@
     "semantic-ui-css": "^2.3.3",
     "semantic-ui-react": "^0.82.1",
     "uuid": "^3.3.2",
-    "vue": "^3.0.2"
+    "vue": "^3.5.18"
   },
   "scripts": {
     "start": "react-scripts start",
